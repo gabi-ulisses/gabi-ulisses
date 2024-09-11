@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabi-ulisses&show_icons=true&title_color=6e5bbe&text_color=a792ff&icon_color=6e5bbe&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
-
 ### Olá, meu nome é Gabrielle!
 
  Estou cursando **Tecnologia em Sistemas para Internet** e atuo como **Consultora de ITSM**, na empresa **Service Up**.
