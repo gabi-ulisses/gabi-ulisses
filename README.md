@@ -3,7 +3,7 @@
  Estou cursando **Tecnologia em Sistemas para Internet** e atuo como **Analista de Sistemas**, na empresa **Service Up**.
 
 
-Atualmente, tenho desenvolvido projetos focados em desenvolvimento web, com linguagem de programação **JAVA** e frameworks front-end, juntamente com **HTML**, **CSS** e **JavaScript**, além de implementar algoritmos em **C** como estudo do meu curso.
+Em paralelo, tenho desenvolvido projetos focados em desenvolvimento web, com linguagem de programação **JAVA** e frameworks front-end, juntamente com **HTML**, **CSS** e **JavaScript**, além de implementar algoritmos em **C** como estudo do meu curso.
 
 ###### No ano de 2023, me formei no curso Técnico em Informática, apresentando como Trabalho de Conclusão de Curso a aplicação web: [EcoAge](https://github.com/Eco-Age/ecoage).
 ### Minhas skills:
