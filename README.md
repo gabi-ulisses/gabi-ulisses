@@ -19,3 +19,9 @@ Sou apaixonada por tecnologia e estou constantemente buscando evoluir como desen
 📜 Também sou **certificada pela ITIL® v4 Foundation**, com conhecimentos em boas práticas de gestão de serviços de TI.
 
 ---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
+</picture>
