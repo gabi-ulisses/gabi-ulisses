@@ -1,22 +1,25 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # a cada 12 horas
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3.3.0
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Gerar SVG da cobrinha
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gabi-ulisses
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages
+      - name: Publicar no GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
