@@ -11,13 +11,13 @@ jobs:
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
-
       - name: Gerar SVG da cobrinha
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v4
         with:
           github_user_name: gabi-ulisses
           outputs: |
             dist/github-contribution-grid-snake.svg
+
 
       - name: Publicar no GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4.0.0
