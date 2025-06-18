@@ -1,12 +1,11 @@
 name: Generate Datas
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Corrigido para rodar exatamente a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3.2.0
