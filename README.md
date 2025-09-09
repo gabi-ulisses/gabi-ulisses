@@ -17,11 +17,3 @@ Sou apaixonada por tecnologia e estou constantemente buscando evoluir como desen
 💡 Tenho um olhar especial para projetos com propósito social e sustentável. Acredito na tecnologia como ferramenta de transformação, e me motiva trabalhar em soluções que contribuam para a conscientização, inclusão e melhoria da qualidade de vida. Essa motivação se refletiu no desenvolvimento do  [EcoAge](https://github.com/Eco-Age/ecoage)  — um sistema gamificado com foco em sustentabilidade, criado como TCC no curso técnico em Informática.
 
 📜 Também sou **certificada pela ITIL® v4 Foundation**, com conhecimentos em boas práticas de gestão de serviços de TI.
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabi-ulisses/gabi-ulisses/output/github-contribution-grid-snake.svg">
-</picture>
