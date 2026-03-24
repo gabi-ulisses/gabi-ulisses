@@ -12,7 +12,7 @@
 
 ### Sobre mim...
 
-Sou apaixonada por tecnologia e estou constantemente buscando evoluir como desenvolvedora. Tenho desenvolvido projetos web usando **Java**, **HTML**, **CSS** e **JavaScript**, e também exploro algoritmos com **C**.
+Sou apaixonada por tecnologia e estou constantemente buscando evoluir como desenvolvedora. Tenho desenvolvido projetos web usando **Java**, **MySQL**, **Kotlin**, e também exploro algoritmos com **C**.
 
 💡 Tenho um olhar especial para projetos com propósito social e sustentável. Acredito na tecnologia como ferramenta de transformação, e me motiva trabalhar em soluções que contribuam para a conscientização, inclusão e melhoria da qualidade de vida. Essa motivação se refletiu no desenvolvimento do  [EcoAge](https://github.com/Eco-Age/ecoage)  — um sistema gamificado com foco em sustentabilidade, criado como TCC no curso técnico em Informática.
 
