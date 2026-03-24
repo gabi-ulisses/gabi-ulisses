@@ -5,7 +5,7 @@
 <p align="center"><br>
   👩🏻‍💻 Analista de Sistemas (<b>Service Up</b>)<br>
   🎓 Graduanda em <b>Tecnologia em Sistemas para Internet</b><br>
-  🌱 Atualmente estudando: <b>Java (com foco em Servlets) e SQL (Oracle, MySQL)</b><br><br>
+  🌱 Atualmente estudando: <b>Java (com foco em Frameworks) e Desenvolvimento Mobile (Kotlin)</b><br><br>
 </p>
 
 ---
